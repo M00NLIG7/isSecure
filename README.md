@@ -8,3 +8,7 @@
 6. Now you can simply click the chrome extension and press the scan button while on any web page
 
 - Note that you must refresh any page open before the chrome extension was active
+
+## Youtube link to walkthrough:
+
+https://youtu.be/T7FK_W5934I
