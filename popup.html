@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="popup.js"></script>
+  </head>
+  <body>
+    <h3 id="verdict" style="font-weight:bold; text-align:center;">Scan the Website!</h3>
+    <table border="1" cellpadding="3" style="border-collapse:collapse;">
+      <tr>
+        <td nowrap>Safe votes:</td>
+        <td align="right"><span id="harmless"></span></td>
+      </tr>
+      <tr>
+        <td nowrap>Malicious votes:</td>
+        <td align="right"><span id="malicious"></span></td>
+      </tr>
+      <tr>
+        <td nowrap>Suspicious votes:</td>
+        <td align="right"><span id="suspicous"></span></td>
+      </tr>
+    </table>
+    <input style="position: relative; left: 25%;" id="button1" type="button" value="Scan">
+  </body>
+</html>
